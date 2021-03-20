@@ -1,5 +1,6 @@
 name: Example-Website
-title: null
+title: "Example Website"
+description: "An example GitHub Pages website for CSC109"
 plugins:
   - jemoji
 theme: jekyll-theme-midnight

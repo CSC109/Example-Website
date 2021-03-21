@@ -3,4 +3,5 @@ title: "CSC109 Example Website"
 description: "An example GitHub Pages website for CSC109"
 plugins:
   - jemoji
-remote_theme: daviddarnes/alembic@main
+theme: jekyll-theme-console
+

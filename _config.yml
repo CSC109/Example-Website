@@ -3,4 +3,4 @@ title: "CSC109 Example Website"
 description: "An example GitHub Pages website for CSC109"
 plugins:
   - jemoji
-theme: midnight
+theme: jekyll-theme-midnight
